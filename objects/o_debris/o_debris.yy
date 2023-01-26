@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "o_astroid",
+  "name": "o_debris",
   "spriteId": {
-    "name": "s_astroid_1",
-    "path": "sprites/s_astroid_1/s_astroid_1.yy",
+    "name": "s_debris",
+    "path": "sprites/s_debris/s_debris.yy",
   },
   "solid": false,
   "visible": true,

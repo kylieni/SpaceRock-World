@@ -1,5 +1,5 @@
 sprite_index = choose(
-s_astroid1, s_astroid2, s_astroid3
+s_astroid_1, s_astroid_2, s_astroid_3
 );
 
 direction = irandom_range(0,359);
